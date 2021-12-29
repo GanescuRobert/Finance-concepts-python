@@ -10,5 +10,6 @@
 | 6.       | Python Programming for Finance p.6 | Getting all company pricing data in the S&P 500 | 9:51  |
 | 7.       | Python Programming for Finance p.7 | Combining S&P 500 into one DataFrame            | 9:50  |
 | 8.       | Python Programming for Finance p.8 | S&P 500 company correlation table               | 16:24 |
+| 9.       | Python Programming for Finance p.9 | Preprocessing data for Machine Learning         | 9:13  |
 
 ## [Link to youtube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
