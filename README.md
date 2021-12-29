@@ -8,5 +8,6 @@
 | 4.       | Python Programming for Finance p.4 | More stock manipulations                        | 10:59 |
 | 5.       | Python Programming for Finance p.5 | Automating getting the S&P 500 list             | 8:26  |
 | 6.       | Python Programming for Finance p.6 | Getting all company pricing data in the S&P 500 | 9:51  |
+| 7.       | Python Programming for Finance p.7 | Combining S&P 500 into one DataFrame            | 9:50  |
 
 ## [Link to youtube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
