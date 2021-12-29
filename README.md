@@ -12,5 +12,6 @@
 | 8.       | Python Programming for Finance p.8  | S&P 500 company correlation table               | 16:24 |
 | 9.       | Python Programming for Finance p.9  | Preprocessing data for Machine Learning         | 9:13  |
 | 10.      | Python Programming for Finance p.10 | Creating machine learning target function       | 6:15  |
+| 11.      | Python Programming for Finance p.11 | Creating labels for Machine Learning            | 12:10 |
 
 ## [Link to youtube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
