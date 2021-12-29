@@ -13,5 +13,6 @@
 | 9.       | Python Programming for Finance p.9  | Preprocessing data for Machine Learning         | 9:13  |
 | 10.      | Python Programming for Finance p.10 | Creating machine learning target function       | 6:15  |
 | 11.      | Python Programming for Finance p.11 | Creating labels for Machine Learning            | 12:10 |
+| 12.      | Python Programming for Finance p.12 | Machine learning                                | 16:59 |
 
 ## [Link to youtube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
